@@ -140,77 +140,6 @@ The project generates multiple charts including:
 
 ---
 
-# ⚙️ Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/Student-Data-Analytics.git
-
-cd Student-Data-Analytics
-```
-
-### Install Dependencies
-
-```bash
-pip install pandas matplotlib
-```
-
-or
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-# ▶️ Run the Project
-
-```bash
-python main.py
-```
-
----
-
-# 📋 Sample Output
-
-The application displays:
-
-* Dataset Information
-* Missing Value Analysis
-* Course-wise Reports
-* Student Performance Reports
-* Attendance Reports
-* Fees Collection Summary
-* Statistical Analysis
-* Interactive Charts
-
----
-
-# 🌍 Applications
-
-* Educational Institutes
-* Student Performance Monitoring
-* College Administration
-* Attendance Analysis
-* Academic Reporting
-* Data Analytics Learning
-* Python Data Analysis Practice
-
----
-
-# 📚 Concepts Covered
-
-* Python Programming
-* Pandas DataFrame Operations
-* SQL-like Data Analysis
-* Data Aggregation
-* GroupBy Operations
-* Data Visualization
-* Statistical Analysis
-* CSV File Processing
-* Business Intelligence Basics
-
 ---
 
 # 🔮 Future Enhancements
@@ -236,25 +165,6 @@ The application displays:
 
 ---
 
-# ⭐ Support
 
-If you found this project helpful, please consider giving it a **⭐ Star** on GitHub.
 
----
 
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 💡 Learning Outcomes
-
-This project demonstrates practical skills in:
-
-* Data Analysis using Pandas
-* SQL-like Operations in Python
-* Data Visualization with Matplotlib
-* Business Analytics
-* Exploratory Data Analysis (EDA)
-* Python Programming for Data Science
