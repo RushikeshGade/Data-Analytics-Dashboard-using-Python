@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 # Description   : Loads CSV dataset into Pandas DataFrame
 # Input         : Filename
 # Output        : DataFrame
-# Author        : Piyush Manohar Khairnar
-# Organization  : Marvellous Infosystems
+# Author        : Rushikesh Hanumant Gade
+# Organization  : 
 # ---------------------------------------------------------------
 
 def load_data(filename):
@@ -25,8 +25,8 @@ def load_data(filename):
 #                 including shape, columns and null values
 # Input         : DataFrame
 # Output        : None
-# Author        : Piyush Manohar Khairnar
-# Organization  : Marvellous Infosystems
+# Author        : Rushikesh Hanumant Gade
+# Organization  : 
 # ---------------------------------------------------------------
 
 def display_basic_info(df):
@@ -68,8 +68,8 @@ def display_basic_info(df):
 #                 using Pandas
 # Input         : DataFrame
 # Output        : None
-# Author        : Piyush Manohar Khairnar
-# Organization  : Marvellous Infosystems
+# Author        : Rushikesh Hanumant Gade
+# Organization  : 
 # ---------------------------------------------------------------
 
 def sql_like_analysis(df):
@@ -145,8 +145,8 @@ def sql_like_analysis(df):
 #                 analytics and dashboard representation
 # Input         : DataFrame
 # Output        : Graphical Visualization
-# Author        : Piyush Manohar Khairnar
-# Organization  : Marvellous Infosystems
+# Author        : Rushikesh Hanumant Gade
+# Organization  : 
 # ---------------------------------------------------------------
 
 def create_visualizations(df):
@@ -274,8 +274,8 @@ def create_visualizations(df):
 # Description   : Entry point function of application
 # Input         : None
 # Output        : None
-# Author        : Piyush Manohar Khairnar
-# Organization  : Marvellous Infosystems
+# Author        : Rushikesh Hanumant Gade
+# Organization  : 
 # ---------------------------------------------------------------
 def main():
 
