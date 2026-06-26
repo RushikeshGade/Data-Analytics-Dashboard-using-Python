@@ -54,34 +54,6 @@ The application loads student data from a CSV file, analyzes academic performanc
 
 ---
 
-# 📂 Project Structure
-
-```text
-Student_Data_Analytics/
-│
-├── main.py
-├── Marvellousstudent.csv
-├── README.md
-└── requirements.txt
-```
-
----
-
-# 📊 Dataset Columns
-
-The dataset contains the following information:
-
-* Student ID
-* Student Name
-* Course
-* Gender
-* City
-* Batch
-* Marks
-* Attendance
-* Fees Paid
-
----
 
 # 🔄 Project Workflow
 
@@ -106,23 +78,6 @@ Statistical Reports
         ▼
 Data Visualization
 ```
-
----
-
-# 📈 Analytics Performed
-
-### Student Analytics
-
-* Course-wise student count
-* Average marks by course
-* City-wise student count
-* Gender distribution
-* Attendance analysis
-* Fees collection by course
-* Highest marks
-* Lowest marks
-* Top-performing students
-* Low attendance students
 
 ---
 
